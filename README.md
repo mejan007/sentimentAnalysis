@@ -73,7 +73,7 @@ You can run the entire stack using Docker Compose.
     ```
 
 3.  Access the application:
-    - **Frontend**: `http://localhost:5173`
+    - **Frontend**: `http://localhost:80`
     - **Backend API**: `http://localhost:8000`
     - **API Docs**: `http://localhost:8000/docs`
 
